@@ -149,10 +149,8 @@ Implemented and evaluated different regression techniques for prediction tasks.
 ### Topics Covered
 
 - K-Nearest Neighbors (KNN)
-- Logistic Regression
 - Decision Trees
 - Naive Bayes
-- Support Vector Machines (SVM)
 
 ### Applications
 - Pattern Recognition
